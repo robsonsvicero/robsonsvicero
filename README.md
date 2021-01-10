@@ -38,7 +38,7 @@
 </p>
 
 <h3 align='center'>My Development Stack</h3><br>
-
+<div align='center'>
 **Application**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -67,7 +67,7 @@
 **Business Tools**
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
-<br/>
+</div><br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" alt="baby yoda" />
