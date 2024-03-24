@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A web developer and UIDesigner from São Paulo, Brazil.
+  Designer specialized in visual identity and UI Design of São Paulo, Brazil. Currently expanding my knowledge in Bootcamp Coding The Future Squadio - Python Data Analytics.
 </p><br>
 
 
