@@ -57,11 +57,6 @@
 </tr>
 
 <tr>
-<th>Utilities</th>
-<td><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></td>
-</tr>
-
-<tr>
 <th>DevOps</th>
 <td><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></td>
 <td><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></td>
@@ -69,16 +64,11 @@
 <td></td>
 </tr>
 
-<tr>
-<th>Business tools</th>
-<td><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></td>
-</tr>
-
 </table>
 </div><br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" alt="baby yoda" />
+  <img src="[https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJuYXZjOTQ1MXhub2o1Nm9neGhsbGRoZjMzY2QwNGFyMWh2OWUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djRJNZqj508sE/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJuYXZjOTQ1MXhub2o1Nm9neGhsbGRoZjMzY2QwNGFyMWh2OWUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djRJNZqj508sE/giphy.gif" alt="Deadpool" />
 
   <a href="#"><img src="https://badges.pufler.dev/visits/robsonsvicero/robsonsvicero"></a>
 </div><br>
