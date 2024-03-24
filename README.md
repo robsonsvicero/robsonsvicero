@@ -67,7 +67,7 @@
 </table>
 </div><br/>
 
-div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJuYXZjOTQ1MXhub2o1Nm9neGhsbGRoZjMzY2QwNGFyMWh2OWUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djRJNZqj508sE/giphy.gif" alt="baby yoda" />
 
   <a href="#"><img src="https://badges.pufler.dev/visits/robsonsvicero/robsonsvicero"></a>
