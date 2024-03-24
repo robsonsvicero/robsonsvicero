@@ -6,7 +6,7 @@
   Designer specialized in visual identity and UI Design of São Paulo, Brazil. Currently expanding my knowledge in Bootcamp Coding The Future Squadio - Python Data Analytics.
 </p><br>
 
-
+<h2>Connect with Me 🔗</h2>
 <p align='center'>
   <a href='https://api.whatsapp.com/send?phone=5511945899726&text=Ol%C3%A1!' target='_blank'>
   <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />
@@ -18,12 +18,12 @@
     <img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' />        
   </a>
   </p><br>
-  
-  <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=robsonsvicero&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p><br>
 
-<h3 align='center'>My workspace 💻</h3><br>
+  <p align='center'>
+  📫 How to reach me: <a href='mailto:robsonsvicero@outlook.com'>robsonsvicero@outlook.com</a>
+</p><br><br>
+  
+<h2>My workspace 💻</h2><br>
 
 <p align='center'>
   
@@ -33,11 +33,9 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p><br>
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:robsonsvicero@outlook.com'>robsonsvicero@outlook.com</a>
-</p><br>
 
-<h3 align='center'>My Development Stack</h3><br>
+
+<h2>My Development Stack 🛠</h2><br>
 <div align='center'>
 <table border="1" cellspacing="0" rules="none">
 <tr>
@@ -65,10 +63,14 @@
 </tr>
 
 </table>
-</div><br/>
+</div><br/><br>
+
+<h2>GitHub Stats</h2><br>
+  <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=robsonsvicero&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p><br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJuYXZjOTQ1MXhub2o1Nm9neGhsbGRoZjMzY2QwNGFyMWh2OWUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djRJNZqj508sE/giphy.gif" alt="baby yoda" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJuYXZjOTQ1MXhub2o1Nm9neGhsbGRoZjMzY2QwNGFyMWh2OWUyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djRJNZqj508sE/giphy.gif" alt="Deadpool" />
 
-  <a href="#"><img src="https://badges.pufler.dev/visits/robsonsvicero/robsonsvicero"></a>
 </div><br>
