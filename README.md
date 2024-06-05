@@ -3,10 +3,10 @@
 </h1>
 
 <p align='center'>
-  Designer specialized in visual identity and UI Design of São Paulo, Brazil. Currently expanding my knowledge in Bootcamp Coding The Future Squadio - Python Data Analytics.
+  Designer especializado em identidade visual e UI Design de São Paulo, Brasil. Atualizando meus conhecimentos em HTML, CSS e JS.
 </p><br>
 
-<h2>Connect with Me 🔗</h2>
+<h2>Me siga nas redes sociais 🔗</h2>
 <p align='center'>
   <a href='https://api.whatsapp.com/send?phone=5511945899726&text=Ol%C3%A1!' target='_blank'>
   <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />
@@ -20,10 +20,14 @@
   </p><br>
 
   <p align='center'>
-  📫 How to reach me: <a href='mailto:robsonsvicero@outlook.com'>robsonsvicero@outlook.com</a>
-</p><br><br>
+    🗞️ Meu blog: <a href='https://robsonsvicero.com/blog'>Blog</a>
+  </p><br>
+
+  <p align='center'>
+    📫 Meu endereço de e-mail: <a href='mailto:robsonsvicero@outlook.com'>robsonsvicero@outlook.com</a>
+  </p><br><br>
   
-<h2>My workspace 💻</h2><br>
+<h2>Minha área de trabalho 💻</h2><br>
 
 <p align='center'>
   
