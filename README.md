@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Robson <img src="https://emojis.slackmojis.com/emojis/images/1605479290/10677/among_us.png?1605479290" width="30"/>
+  olá, bem-vindo ao meu perfil, eu sou o Robson <img src="https://emojis.slackmojis.com/emojis/images/1605479290/10677/among_us.png?1605479290" width="30"/>
 </h1>
 
 <p align='center'>
